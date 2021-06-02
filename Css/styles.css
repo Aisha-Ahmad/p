@@ -1,0 +1,181 @@
+/*********************************TAG SELECTORS*************************************/
+body{
+    color: #40514E;
+    margin: 0rem;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+h1{
+    color: #1eae98;
+    margin-top: 3.125rem;
+    font-family: 'Great Vibes', cursive;
+    font-size: 3.75rem;
+}
+h2{
+    color: #008891;
+}
+h3{
+    color: #008891;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+}
+hr{
+    width: 5%;
+    border-style: dotted none none none;
+    border-width: 0.3125rem;
+    color: #8ad7c1;
+}
+
+
+
+ /***************************************TOP CONTAINER***********************************/
+ .top-container{
+    background-color: #caf7e3;
+    padding-top: 6.25rem;
+    position: relative; 
+    line-height: .5;  
+}
+
+.aisha{
+    height: 5rem;
+    width: 5rem;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 3.125rem;
+    left: 12.5rem;
+}
+.bird{
+    position: absolute;
+    left: 33.125rem;
+    top: 1.875rem;
+    height: 1.875rem;
+    width: 1.875rem;
+}
+.birds{
+    position: absolute;
+    top: 18.125rem;
+    right: 35.625rem;
+    height: 2.5rem;
+    width: 2.5rem;
+}
+.cloud_a{
+    height: 6.25rem;
+    width: 9.375rem;
+    position: absolute;
+    right: 25rem;
+    top: 1.25rem;
+
+}
+.cloud_b{
+    height: 6.25rem;
+    width: 9.375rem;
+    position: absolute;
+    left: 25rem;
+    bottom: 18.75rem;
+}
+.head{
+    color: #6ddccf;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.875rem;    ;
+    margin-top: 0;
+    font-weight: 100;
+}
+
+ /***************************************MIDDLE CONTAINER***********************************/
+ .middle-container{
+    text-align: center;
+}
+
+.profile{
+    margin: 3.125rem auto 6.25rem auto;
+    width: 45%;
+    line-height: 2;
+}
+.skills{
+    margin: 6.25rem auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 4.375rem auto;
+    text-align: left;
+    line-height: 2;
+}
+.coding{
+    height: 9.375rem;
+    width: 9.375rem;
+    float: left;
+    padding-right: 1.875rem;
+}
+.dress{
+    height: 9.375rem;
+    width: 9.375rem;
+    float: right;
+    margin-left: 1.875rem;
+}
+
+
+ /***************************************LAST CONTAINER***********************************/
+.last-container{
+    text-align: center;
+}
+
+.wish{
+    width: 70%;
+    margin: 9.375rem auto;
+    text-align: left;
+    line-height: 2;
+}
+.astro{
+    border-radius: 100%;
+    height: 15.625rem;
+    width: 15.625rem;
+    float: right;
+    margin-left: 3.75rem;
+}
+
+ /***************************************CONTACT ME CONTAINER***********************************/
+ .contact-me{
+     text-align: center;
+     margin: 3.125rem;
+ }
+ .contact-p{
+    width: 40%;
+    line-height: 2;
+    margin: 1.875rem auto;
+} 
+
+/*********************************BUTTON********************************/
+button{
+    border-radius: 0.625rem;
+    font-family: Arial;
+    font-size: 1rem;
+    font-weight: 200;
+    padding: 0.625rem;
+    background-color: #11999E;
+    border: solid #11999E 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+
+ /***************************************BOTTOM CONTAINER***********************************/
+ .bottom-container{
+    background-color:#66BFBF ;
+    margin-top: 3.125rem;
+    padding: 3.125rem;
+}
+
+.footer-link{
+    color: #098488;
+    margin: 0.625rem;
+}
+.pp{
+    color: #EAF6F6;
+}
